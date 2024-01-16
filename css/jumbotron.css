@@ -1,0 +1,83 @@
+.jumbotron-standings {
+    background: url('../images/standings.jpg') no-repeat fixed;
+  }
+  .jumbotron-results {
+    background: url('../images/results.jpg') no-repeat fixed;
+  }
+  .jumbotron-2000 {
+    background: url('../images/2000.jpg') no-repeat fixed;
+  }
+  .jumbotron-2001 {
+    background: url('../images/2001.jpg') no-repeat fixed;
+  }
+  .jumbotron-2002 {
+    background: url('../images/2002.jpg') no-repeat fixed;
+  }
+  .jumbotron-2003 {
+    background: url('../images/2003.jpg') no-repeat fixed;
+  }
+  .jumbotron-2004 {
+    background: url('../images/2004.jpg') no-repeat fixed;
+  }
+  .jumbotron-2005 {
+    background: url('../images/2005.jpg') no-repeat fixed;
+  }
+  .jumbotron-2006 {
+    background: url('../images/2006.jpg') no-repeat fixed;
+  }
+  .jumbotron-2007 {
+    background: url('../images/2007.jpg') no-repeat fixed;
+  }
+  .jumbotron-2008 {
+    background: url('../images/2008.jpg') no-repeat fixed;
+  }
+  .jumbotron-2009 {
+    background: url('../images/2009.jpg') no-repeat fixed;
+  }
+  .jumbotron-2010 {
+    background: url('../images/2010.jpg') no-repeat fixed;
+  }
+  .jumbotron-2011 {
+    background: url('../images/2011.jpg') no-repeat fixed;
+  }
+  .jumbotron-2012 {
+    background: url('../images/2012.jpg') no-repeat fixed;
+  }
+  .jumbotron-2013 {
+    background: url('../images/2013.jpg') no-repeat fixed;
+  }
+  .jumbotron-2014 {
+    background: url('../images/2014.jpg') no-repeat fixed;
+  }
+  .jumbotron-2015 {
+    background: url('../images/2015.jpg') no-repeat fixed;
+  }
+  .jumbotron-2016 {
+    background: url('../images/2016.jpg') no-repeat fixed;
+  }
+  .jumbotron-2017 {
+    background: url('../images/2017.jpg') no-repeat fixed;
+  }
+  .jumbotron-2018 {
+    background: url('../images/2018.jpg') no-repeat fixed;
+  }
+  .jumbotron-2019 {
+    background: url('../images/2019.jpg') no-repeat fixed;
+  }
+  .jumbotron-2020 {
+    background: url('../images/2020.jpg') no-repeat fixed;
+  }
+  .jumbotron-2021 {
+    background: url('../images/2021.jpg') no-repeat fixed;
+  }
+  .jumbotron-2022 {
+    background: url('../images/2022.jpg') no-repeat fixed;
+  }
+  .jumbotron-2023 {
+    background: url('../images/2023.jpg') no-repeat fixed;
+  }
+  .jumbotron {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.1);
+    height: 40vh;
+    background-size: cover;
+  }

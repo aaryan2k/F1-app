@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>21st Century F1</title>
+    <link rel="icon" type="image/x-icon" href="/images/logo.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/custom.css">
+    <link href="css/bootstrap-override.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+            <div class="container">
+                <a class="navbar-brand">
+                    <img src="images/logo.png" width="30" height="30" class="d-inline-block align-top"
+                        alt="F1 Car Logo">
+                        21st Century F1
+                </a>
+        
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+        
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="nav navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link text-white nav-effect" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white nav-effect" href="standings.html">Standings</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white nav-effect" href="results.html">Race Results</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+
+    <main class="container" role="main">
+
+        <div id="welcomeCarousel" class="carousel slide mb-5" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#welcomeCarousel" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Welcome 1"></button>
+                <button type="button" data-bs-target="#welcomeCarousel" data-bs-slide-to="1"
+                    aria-label="Welcome 2"></button>
+                <button type="button" data-bs-target="#welcomeCarousel" data-bs-slide-to="2"
+                    aria-label="Welcome 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item welcome-carousel-image1 active">
+                    <div class="carousel-caption">
+                        <h1>Welcome to 21st Century F1</h1>
+                        <p>Home of the Internet Formula 1 Historians</p>
+                    </div>
+                </div>
+                <div class="carousel-item welcome-carousel-image2">
+                    <div class="carousel-caption text-start">
+                        <h1>The Championship Positions</h1>
+                        <p>Take a trip back in time to see champions past to present</p>
+                        <p><a class="btn btn-lg btn-danger" href="standings.html" role="button">Standings</a></p>
+                    </div>
+                </div>
+                <div class="carousel-item welcome-carousel-image3">
+                    <div class="carousel-caption text-end">
+                        <h1>Experience Grand Prix Results</h1>
+                        <p>See the ones who conquered each circuit year-by-year</p>
+                        <p><a class="btn btn-lg btn-danger" href="results.html" role="button">Results</a></p>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#welcomeCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#welcomeCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+        <nav aria-label="breadcrumb" class="my-3 ms-3">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item active" aria-current="page">Home</li>
+            </ol>
+        </nav>
+
+        <div class="container history">
+            <div class="row">
+                <div class="col-lg-8">
+                    <h2 class="pb-4 mb-4 fst-italic">
+                        My Story
+                    </h2>
+                    <p>
+                        For the last decade, I have loved watching Formula 1. I have seen Sebastian Vettel win his fourth Championship, 
+                        Lewis Hamilton become a seven time champion of the world, and the young upstart named Max Verstappen take his place
+                        with legends of the sport. I have been fascinated with the history of the sport and how it has evolved over the years
+                    </p>
+                    <p>
+                        As I grew older, I also became very interested in engineering and computer science. With engineering being such an integral part for the development of
+                        the racecars, my love for the sport only amplified. So to combine my interests, I have created this site. I hope you enjoy using it to learn F1 history just as I did.
+                    </p>
+                </div>
+
+                <aside class="col-lg-4">
+                    <div class="p-4 mb-3 mt-2 bg-light rounded">
+                        <p class="mb-0 fst-italic">There are only three sports: bullfighting, <b>motor racing</b>, and mountaineering; all the rest are merely games ~
+                            Ernest Hemingway</p>
+                    </div>
+
+                    <div class="p-4 mb-3 bg-secondary rounded">
+                        <h4 class="text-white">Contact me</h4>
+                        <p class="mb-0 text-white rfs-text">Send me any suggestions you have to aaryanz116@yahoo.com</p>
+                    </div>
+
+                </aside>
+            </div>
+        </div>
+        </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
