@@ -110,12 +110,54 @@ body{
 .alphatauri-color{
     background-color: #4E7C9B !important;
 }
+.bmw-color{
+    background-color: #E3E4E8 !important;
+}
+.mclaren2-color{
+    background-color: #BDC4D2 !important;
+}
+.williams2-color{
+    background-color: #08081E !important;
+}
+.toyota-color{
+    background-color: #9D0011 !important;
+}
+.honda-color{
+    background-color: #84E4FD !important;
+}
+.superaguri-color{
+    background-color: #D62C3D !important;
+}
+.spyker-color{
+    background-color: #FF6400 !important;
+}
+.lotus-color{
+    background-color: #B6995B !important;
+}
+.forceindia-color{
+    background-color: #FD4301 !important;
+}
+.sauber-color{
+    background-color: #006EFF !important;
+}
+.marussia-color{
+    background-color: #ED1B20 !important;
+}
+.caterham-color{
+    background-color: #005030 !important;
+}
+.hrt-color{
+    background-color: #D6C39A !important;
+}
 .credit{
     text-align: center;
     font-size: 0.8rem;
     color: gray;
 }
-
 .color-override{
     color: #000000 !important;
+}
+mark {
+    background-color: teal;
+    color: #FFFFFF;
 }
