@@ -117,7 +117,7 @@ body{
     background-color: #BDC4D2 !important;
 }
 .williams2-color{
-    background-color: #08081E !important;
+    background-color: #101045 !important;
 }
 .toyota-color{
     background-color: #9D0011 !important;
@@ -148,6 +148,18 @@ body{
 }
 .hrt-color{
     background-color: #D6C39A !important;
+}
+.renault2-color{
+    background-color: #0E57B8 !important;
+}
+.jordan-color{
+    background-color: #ECC635 !important;
+}
+.bar-color{
+  background-color: #E3E4E8 !important;
+}
+.minardi-color{
+  background-color: #000000 !important;
 }
 .credit{
     text-align: center;
