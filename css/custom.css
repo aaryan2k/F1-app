@@ -89,10 +89,10 @@ body{
 .racingpoint-color{
     background-color: #F596C8 !important;
 }
-.mclaren-color{
+.mclaren16-color{
     background-color: #FF8700 !important;
 }
-.renault-color{
+.renault06-color{
     background-color: #FFF500 !important;
 }
 .tororosso-color{
@@ -104,7 +104,7 @@ body{
 .haas-color{
     background-color: #B6BABD !important;
 }
-.williams-color{
+.williams20-color{
     background-color: #37BEDD !important;
 }
 .alphatauri-color{
@@ -113,11 +113,14 @@ body{
 .bmw-color{
     background-color: #E3E4E8 !important;
 }
-.mclaren2-color{
+.mclaren0015-color{
     background-color: #BDC4D2 !important;
 }
-.williams2-color{
-    background-color: #101045 !important;
+.williams1419-color{
+    background-color: #f8f9fa !important;
+}
+.williams0013-color{
+  background-color: #101045 !important;
 }
 .toyota-color{
     background-color: #9D0011 !important;
@@ -149,7 +152,7 @@ body{
 .hrt-color{
     background-color: #D6C39A !important;
 }
-.renault2-color{
+.renault0005-color{
     background-color: #0E57B8 !important;
 }
 .jordan-color{
@@ -158,8 +161,32 @@ body{
 .bar-color{
   background-color: #E3E4E8 !important;
 }
-.minardi-color{
+.minardi01-color{
   background-color: #000000 !important;
+}
+.arrows-color{
+    color: #de720d !important;
+}
+.prost-color{
+    color: #343f7e !important;
+}
+.minardi00-color{
+    color: #f3fd49 !important;
+}
+.benetton-color{
+    color: #05b1f4 !important;
+}
+.jaguar-color{
+    color: #04581f !important;
+}
+.alpine-color{
+    color: #2293d1 !important;
+}
+.astonmartin-color{
+    color: #2d826d !important;
+}
+.manor-color{
+    color: #fa664a !important;
 }
 .credit{
     text-align: center;
