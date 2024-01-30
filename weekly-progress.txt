@@ -1,0 +1,5 @@
+Weekly progress: 
+
+Week 1: Created template for what the pages will look like in Bootstrap
+
+Week 2: Watching course about React so I know how to build the single-page app using that in combination with Bootstrap. No additions to the site.
