@@ -1,9 +1,11 @@
 Weekly progress: 
 
 Week 1:
-  1. I finished using Bootstrap to make my home page look good and created the template for what my secondary pages will look like (they need to be coded in JS with React). I also am watching a course on React to learn how to use it. 
+  1. I finished using Bootstrap to make my home page look good and created the template for what my pages will look like (they need to be coded in JS with React). I also am watching a course on React to learn how to use it. 
   2. Goals: Finish up the course, and get started on making the necessary functions
   3. February 15th:  Finish up with the React rendering components. February 29th: Connect my site with the Fast F1 API so that data is returned correctly and make my site functional. After that, work on XPerience stuff
   4. PluralSight, VSCode
 
-Week 2:
+Week 2: 
+  1. I have made progress on my React course. Currently learning how to use Hooks and Routers so my site can be a single-page application. 
+  2. Goals: Finish up the course (for real) and create the Navigation component of my app with JSX
