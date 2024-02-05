@@ -7,5 +7,5 @@ Week 1:
   4. PluralSight, VSCode
 
 Week 2: 
-  1. I have made progress on my React course. Currently learning how to use Hooks and Routers so my site can be a single-page application. 
-  2. Goals: Finish up the course (for real) and create the Navigation component of my app with JSX
+  1. I have finished watching my React course. Currently learning how to use Hooks and Routers so my site can be a single-page application. 
+  2. Goals: Start creating the Navigation component of my app with JSX. Will watch YouTube videos to see how exactly I need to route these.
